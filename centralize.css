@@ -2,13 +2,14 @@
 	font-size: 1.1em;
 }
 
-.login-form{
+/* .login-form */
+section{
 	padding-top: 7%;
 	text-align: center;
 }
 
 .question-form{
-	padding-top: 9%;
+	/* padding-top: 9%; */
 	text-align: center;
 }
 
